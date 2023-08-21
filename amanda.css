@@ -1,0 +1,33 @@
+body
+{h1 
+    text-align:center;
+    background-color: aqua;
+}
+h3{
+    background-color: rgb(255, 0, 0);
+}
+
+p {
+    text-align: center;
+    font-size: medium;
+}
+.unicornio {
+    background-color: rgb(3, 20, 20)
+}
+.brilho {
+    background-color: rgb(241, 9, 9)
+}
+
+strong {
+    font-size: larger;
+}
+
+body {
+    background-color: rgb(14, 8, 19);
+}
+.unicornio {
+    background-color: rgb(255, 30, 0)
+}
+.brilho {
+    background-color: bronw
+}
