@@ -1,33 +1,44 @@
-body
-{h1 
+h1 {
     text-align:center;
-    background-color: aqua;
+    background-color: rgba(252, 252, 252, 0.911);
+}
+h2{
+    text-align: center;
 }
 h3{
-    background-color: rgb(255, 0, 0);
+    font-style: oblique;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
 }
 
 p {
     text-align: center;
     font-size: medium;
 }
-.unicornio {
-    background-color: rgb(3, 20, 20)
-}
-.brilho {
-    background-color: rgb(241, 9, 9)
-}
-
 strong {
     font-size: larger;
 }
 
 body {
-    background-color: rgb(14, 8, 19);
+    background-color: rgb(255, 0, 0);
 }
+.imagem1 {
+    width: 200px;
+}
+.imagemcentralizada {
+ text-align: center;
+}
+
 .unicornio {
-    background-color: rgb(255, 30, 0)
+    background-color: rgb(252, 244, 244)
+
 }
 .brilho {
-    background-color: bronw
+   color: rgb(247, 247, 247);
+    font-style: italic
 }
+.lista {
+        display: inline-block;
+        padding: 5%;
+        margin-right: 10%;
+    }
