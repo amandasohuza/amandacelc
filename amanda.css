@@ -1,13 +1,13 @@
 h1 {
     text-align:center;
-    background-color: rgba(252, 252, 252, 0.911);
+    background-color: rgba(223, 34, 34, 0.911);
 }
 h2{
     text-align: center;
 }
 h3{
     font-style: oblique;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(15, 14, 14);
     text-align: center;
 }
 
@@ -41,4 +41,7 @@ body {
         display: inline-block;
         padding: 5%;
         margin-right: 10%;
+    }
+    .jogadores.html{
+        width: 30%;
     }
