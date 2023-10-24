@@ -16,12 +16,13 @@ nav a{
   vertical-align: top;
   margin: 0 1.5%;
   padding: 30px 20px;
-  border-color: rgb(247, 241, 242);
+  border-color: red;
   border-width: 30px;
   border-style: solid;
+  background-color:red;
 }
 
 body {
-  background-color: rgb(6, 7, 7);
+  background-color: red;
   text-align:center;
 }
