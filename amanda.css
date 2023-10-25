@@ -55,5 +55,16 @@ body {
         border-style: solid;
         border-radius: 12px 50px 2px 120px;
     }
-
+nav a{
+    text-transform: uppercase;
+    text-align: center;
+    color: darkorchid;
+    font-weight: 300;
+    font-size: 100%;
+    text-decoration: none ;
+    border-color: red;
+    border-width: 10px;
+    border-style: solid; 
+    backgound-color: black;
+}
 
