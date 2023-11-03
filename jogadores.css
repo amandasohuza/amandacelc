@@ -30,3 +30,18 @@ body {
 .imagem1{
     widht: 20%;
 }
+.imagem2 {
+  width: 20%
+}
+
+.centralizar {
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 1.5%;
+  padding: 30px 20px;
+  border-color: red;
+  border-width: 30px;
+  border-style: solid;
+  background-color:red;
+}
